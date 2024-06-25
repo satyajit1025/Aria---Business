@@ -26,7 +26,7 @@ This project is a front-end web development exercise focused on designing and bu
 2. Social Media: Icons linking to the business’s social media profiles.
 # Technologies Used
 1. HTML: Structure and semantic elements.
-2 CSS: Styling, layout, and responsive design using media queries.
+2. CSS: Styling, layout, and responsive design using media queries.
 # Learning Outcomes
 By completing this project, you will:
 1. Develop skills in HTML and CSS for front-end web development.
